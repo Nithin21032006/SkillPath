@@ -1,0 +1,46 @@
+skill,prerequisite
+OOP,Java
+Collections,OOP
+Recursion,Java
+Arrays,Java
+Linked List,Arrays
+Stack,Linked List
+Queue,Linked List
+HashMap,Collections
+Trees,Recursion
+BST,Trees
+Graphs,Trees
+BFS,Graphs
+DFS,Graphs
+Dijkstra,Graphs
+Dijkstra,Queue
+Dynamic Programming,Recursion
+Advanced SQL,SQL
+JDBC,Java
+JDBC,SQL
+Spring Boot,Java
+Spring Boot,OOP
+REST API,Spring Boot
+System Design,REST API
+System Design,SQL
+Microservices,Spring Boot
+Microservices,REST API
+Docker,Linux
+Docker,Git
+Git,Linux
+JavaScript,HTML
+JavaScript,CSS
+React,JavaScript
+NumPy,Python
+Pandas,Python
+Statistics,Mathematics
+Machine Learning,Python
+Machine Learning,Statistics
+Machine Learning,NumPy
+Machine Learning,Pandas
+Deep Learning,Machine Learning
+Deep Learning,Probability
+TensorFlow,Deep Learning
+PyTorch,Deep Learning
+Cloud Computing,Linux
+Cloud Computing,Docker
